@@ -31,3 +31,5 @@ production:
   database: appname_production
   pool: 5
   timeout: 5000
+  username: michael
+  password:
